@@ -2,7 +2,7 @@
   "templates": [
     {
       "name": "MySQL Monitoring",
-      "url": "https://github.com/Scoob79/bdd-template-grafana/issues/2#issue-3469675328"
+      "url": "https://raw.githubusercontent.com/Scoob79/bdd-template-grafana/main/mysql"
     }
   ]
 }
